@@ -2,7 +2,7 @@ import time
 import urllib.request
 
 run = True
-minutes = 24
+minutes = 0
 
 while run:
     time.sleep(60)
